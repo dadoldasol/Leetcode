@@ -19,3 +19,12 @@ Solve algorithm step by step
 - (medium) [442. Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
 - (hard) [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 - (hard) [968. Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)
+
+* * *
+
+[Jan/2021] Week 4
+
+- (easy) [1. Two Sum](https://leetcode.com/problems/two-sum/)
+- (easy) [819. Most Common Word](https://leetcode.com/problems/most-common-word/)
+- (easy) [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)
+- (hard) [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
