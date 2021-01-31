@@ -28,3 +28,20 @@ Solve algorithm step by step
 - (easy) [819. Most Common Word](https://leetcode.com/problems/most-common-word/)
 - (easy) [937. Reorder Data in Log Files](https://leetcode.com/problems/reorder-data-in-log-files/)
 - (hard) [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
+
+* * *
+
+[Feb/2021] Week 1
+
+binary tree practice / prob
+- (medium) [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+- (medium) [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- (medium) [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- (medium) [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+
+DP easy / medium
+- (easy) [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- (medium) [1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/)
+
+Linked List
+- (medium) [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
