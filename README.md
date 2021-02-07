@@ -45,3 +45,15 @@ DP easy / medium
 
 Linked List
 - (medium) [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+
+* * *
+
+[Feb/2021] Week 2
+
+array / string
+- (easy) [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+- (medium) [921. Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
+- (hard) [1703. Minimum Adjacent Swaps for K Consecutive Ones](https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/)
+
+- (medium) [15. 3Sum](https://leetcode.com/problems/3sum/)
+- (medium) [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
