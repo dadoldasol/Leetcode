@@ -57,3 +57,16 @@ array / string
 
 - (medium) [15. 3Sum](https://leetcode.com/problems/3sum/)
 - (medium) [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/)
+
+* * *
+
+[Feb/2021] Week 3
+
+Tree / Graph
+ - (easy) [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+ - (medium) [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+ - (hard) [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
+ - (hard) [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+ 
+ LinkedList
+  - (medium) [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
