@@ -22,7 +22,6 @@ public:
             if(cur->left) tree_s.push(cur->left);
         }
         
-        
         return result;
     }
 };
