@@ -66,7 +66,23 @@ Tree / Graph
  - (easy) [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
  - (medium) [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
  - (hard) [127. Word Ladder](https://leetcode.com/problems/word-ladder/)
- - (hard) [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
+ - (medium) [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
  
  LinkedList
   - (medium) [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+
+
+* * *
+
+[Feb/2021] Week 4
+
+Tree / Graph
+
+- (easy) [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+- (medium) [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
+- (hard) [815. Bus Routes](https://leetcode.com/problems/bus-routes/)
+
+array / string
+
+- (easy) [28. Implement strStr()](https://leetcode.com/problems/implement-strstr/)
+- (medium) [48. Rotate Image](https://leetcode.com/problems/rotate-image/)
