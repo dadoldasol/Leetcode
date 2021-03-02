@@ -105,3 +105,9 @@ Array / String
 - (medium) [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - (hard) [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
 
+
+Algorithm study
+
+- (easy) [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- (medium) [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)
+- (hard) [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
