@@ -96,14 +96,14 @@ Online Assessment
 
 * * *
 
-[Mar/2021] Week1
+[Mar/2021] Week1 - Week2
 
 Array / String
 
 - (easy) [415. Add Strings](https://leetcode.com/problems/add-strings/)
 - (medium) [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 - (medium) [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
-- (hard) [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+- (hard) [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) -> 못품.. 다음 주차
 
 
 Algorithm study
@@ -111,3 +111,19 @@ Algorithm study
 - (easy) [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - (medium) [873. Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)
 - (hard) [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)
+
+* * *
+
+[Mar/2021] Week3
+
+Array / String
+
+- (easy) [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+- (medium) [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
+- (hard) [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+
+Algoritm study
+
+- (medium) [5. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- (medium) [8. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+- (hard) [7. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
