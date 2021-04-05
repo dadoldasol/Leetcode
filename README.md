@@ -120,10 +120,33 @@ Array / String
 
 - (easy) [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 - (medium) [31. Next Permutation](https://leetcode.com/problems/next-permutation/)
-- (hard) [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
+- (hard) [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) -> 84를 기반으로 풀 수 있음
+- (hard) [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+
 
 Algoritm study
 
 - (medium) [5. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - (medium) [8. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
-- (hard) [7. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/)
+- (hard) [7. Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) -> 다음에 다시 풀기 (priority queue)
+
+
+* * *
+
+[Apr/2021] Week1
+
+backtracking
+
+- (medium) [46. Permutations](https://leetcode.com/problems/permutations/)
+- (medium) [47. Permutations II](https://leetcode.com/problems/permutations-ii/)
+- (hard) [51. N-Queens](https://leetcode.com/problems/n-queens/)
+
+dp
+
+- (medium) [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/)
+
+algorithm study
+
+- (easy) [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- (medium) [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+- (hard) [218. The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)
